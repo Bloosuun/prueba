@@ -1,0 +1,5 @@
+nombre = input("Ingresa tu nombre")
+delante = input("Ingresa los 16 numeros en la parte delantera de tu tarjeta")
+fecha = input("Ingresa la fecha de vencimiento de tu tarjeta")
+cvv = input("Ingresa el CVV de la parte trasera de tu tarjeta")
+print = ("gracias")
